@@ -1,0 +1,7 @@
+  SublimeLinter-haxe
+-------------------------------
+This linter plugin for SublimeLinter provides an interface to haxe.
+
+Please follow the installation instructions here:
+
+https://github.com/RudenkoArts/SublimeLinter-haxe
